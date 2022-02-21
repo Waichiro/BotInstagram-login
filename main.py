@@ -86,5 +86,5 @@ class InstagramBot:
                 print(e)
                 time.sleep(5)
 
-bot = InstagramBot('Learn_With.Dev', '06711607538')
+bot = InstagramBot('usuario', 'senha')
 bot.login()
