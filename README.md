@@ -1,2 +1,2 @@
 # BotInstagram-login
- So um teste fazendo um bot para o instagram 
+Instagram bot, where it accesses your account when you add your username and password.
